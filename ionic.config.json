@@ -1,0 +1,8 @@
+{
+  "name": "blub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "dd4b6773"
+}
